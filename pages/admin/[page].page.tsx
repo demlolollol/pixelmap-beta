@@ -48,13 +48,6 @@ export const pages = [
     component: <PageActivity/>
   },
   {
-    type: PageTypes.NOTIFICATIONS,
-    icon: <Mail/>,
-    name: "Notifications",
-    component: <PageNotifications/>
-  }
-]
-
 
 export default function AdminPage() {
   const router = useRouter();
