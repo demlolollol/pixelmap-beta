@@ -49,7 +49,7 @@ export const pages = [
   },
   {
 
-export default function AdminPage() {
+export default function AdminPage();
   const router = useRouter();
   const [isAdmin, setIsAdmin] = useState(false);
 
