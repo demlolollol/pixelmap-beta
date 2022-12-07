@@ -7,7 +7,6 @@ import { useRouter } from 'next/dist/client/router';
 import { API_URL } from '../constants/api';
 import SideBar from '../sidebar';
 import PageActivity from './Activity';
-import PageNotifications from './Notifications';
 
 const Container = styled.div`
   width: 100vw;
