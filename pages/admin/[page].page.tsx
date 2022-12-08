@@ -48,8 +48,6 @@ export const pages = [
     component: <PageActivity/>
   },
   
-  {
-
 export default function AdminPage();
   const router = useRouter();
   const [isAdmin, setIsAdmin] = useState(false);
