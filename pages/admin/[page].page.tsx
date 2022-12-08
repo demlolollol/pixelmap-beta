@@ -47,6 +47,7 @@ export const pages = [
     name: "Activity",
     component: <PageActivity/>
   },
+  
   {
 
 export default function AdminPage();
